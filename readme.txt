@@ -5,4 +5,4 @@ Git track changes.
 Creating a new branch is quick.
 Wtf
 Creating a new branch is quick AND simple.
-
+merge.
